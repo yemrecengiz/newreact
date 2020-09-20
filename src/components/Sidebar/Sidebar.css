@@ -1,0 +1,26 @@
+.sidebar-main {
+    width: 20%;
+    height: 100vh;
+    background-color:rgb(60, 120, 172);
+}
+
+.sidebar-member {
+    text-align: left;
+    padding: 30px 30px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    display: block;
+    font-size: 40px;
+    width: 100%;
+    background-color: rgb(60,120,172);
+    color: rgba(255, 255, 255, 0.479);
+}
+
+.sidebar-member:hover {
+    color: #fff;
+    background-color:  rgba(110, 144, 173, 0.3);
+    border: 1px solid rgb(163, 154, 154);
+    border-bottom: none;
+    border-top: none;
+}
